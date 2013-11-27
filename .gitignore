@@ -1,2 +1,6 @@
 *.pyc
 KNN/*.pyc
+KNN/.project
+KNN/.pydevproject
+KNN/.settings
+
