@@ -1,0 +1,40 @@
+-- VERSION_3
+-- START DISKCACHE
+/home/pstar/workspace_python/MachineLearninginAction/.metadata/.plugins/org.eclipse.core.resources/.projects/KNN/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+HandwritingClassifyTest|0|/home/pstar/workspace_python/MachineLearninginAction/KNN/HandwritingClassifyTest.py
+KNNtest|0|/home/pstar/workspace_python/MachineLearninginAction/KNN/KNNtest.py
+DatingClassify|0|/home/pstar/workspace_python/MachineLearninginAction/KNN/DatingClassify.py
+DatingClassifyTest|0|/home/pstar/workspace_python/MachineLearninginAction/KNN/DatingClassifyTest.py
+KNN|0|/home/pstar/workspace_python/MachineLearninginAction/KNN/KNN.py
+HandwritingClassify|0|/home/pstar/workspace_python/MachineLearninginAction/KNN/HandwritingClassify.py
+-- END DISKCACHE
+-- START DICTIONARY
+9
+8=DatingClassifyTestCase
+5=HandwritingClassifyTest
+9=KNNTestCase
+6=KNNtest
+3=DatingClassify
+4=DatingClassifyTest
+7=HandwritingClassifyTestCase
+1=KNN
+2=HandwritingClassify
+-- END DICTIONARY
+-- START TREE 1
+10
+aut|1|autoNorm!10@
+cla|3|classify0!10@classifyHandwriting!18@classifyPerson!26@
+cre|1|createDataSet!10@
+dat|1|DatingClassifyTestCase!33@
+err|2|errorRateTest!10@errorRateTest!18@
+fil|1|fileToMatrix!10@
+han|1|HandwritingClassifyTestCase!41@
+img|1|imgToVector!18@
+knn|1|KNNTestCase!49@
+sho|1|showScatter!26@
+-- END TREE
+-- START TREE 2
+1
+tes|9|testErrorRateTest!7&42@testClassifyPerson!8&34@testImgToVectorTest!7&42@testClassify0!9&50@testErrorRateTest!9&50@testShowScatter!8&34@testAutoNorm!9&50@testFileToMatrix!9&50@testClassifyHandwriting!7&42@
+-- END TREE

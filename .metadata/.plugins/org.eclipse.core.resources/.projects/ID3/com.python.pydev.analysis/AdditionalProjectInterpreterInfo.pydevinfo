@@ -1,0 +1,26 @@
+-- VERSION_3
+-- START DISKCACHE
+/home/pstar/workspace_python/MachineLearninginAction/.metadata/.plugins/org.eclipse.core.resources/.projects/ID3/com.python.pydev.analysis/v1_indexcache
+.v1_indexcache
+ID3|0|/home/pstar/workspace_python/MachineLearninginAction/ID3/ID3.py
+ID3Test|0|/home/pstar/workspace_python/MachineLearninginAction/ID3/ID3Test.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+1=ID3
+3=ID3TestCase
+2=ID3Test
+-- END DICTIONARY
+-- START TREE 1
+6
+cal|1|calEntropy!10@
+cho|1|chooseBestFeatureToSplit!10@
+cre|2|createTree!10@createdataSet!10@
+id3|1|ID3TestCase!17@
+maj|1|majorityCount!10@
+spl|1|splitDataSet!10@
+-- END TREE
+-- START TREE 2
+1
+tes|4|testCalEntropy!3&18@testCreateTree!3&18@testChooseBestFeatureToSplit!3&18@testSplitDataSet!3&18@
+-- END TREE

@@ -1,0 +1,10 @@
+INSTUPID3
+/home/pstar/workspace_python/MachineLearninginAction/ID3/ID3.py
+INFOS:&&2|1|2|0&&2|3|2|0&&2|4|2|0&&2|5|2|0&&2|6|2|0&&2|7|2|0
+splitDataSet=4
+calEntropy=3
+createTree=7
+majorityCount=6
+chooseBestFeatureToSplit=5
+ID3=2
+createdataSet=1

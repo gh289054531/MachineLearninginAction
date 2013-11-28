@@ -1,0 +1,7 @@
+MODULES_MANAGER_V2
+DatingClassify|/home/pstar/workspace_python/MachineLearninginAction/KNN/DatingClassify.py
+DatingClassifyTest|/home/pstar/workspace_python/MachineLearninginAction/KNN/DatingClassifyTest.py
+HandwritingClassify|/home/pstar/workspace_python/MachineLearninginAction/KNN/HandwritingClassify.py
+HandwritingClassifyTest|/home/pstar/workspace_python/MachineLearninginAction/KNN/HandwritingClassifyTest.py
+KNN|/home/pstar/workspace_python/MachineLearninginAction/KNN/KNN.py
+KNNtest|/home/pstar/workspace_python/MachineLearninginAction/KNN/KNNtest.py

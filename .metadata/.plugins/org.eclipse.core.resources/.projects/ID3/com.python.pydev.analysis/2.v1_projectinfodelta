@@ -1,0 +1,9 @@
+INSTUPID3Test
+/home/pstar/workspace_python/MachineLearninginAction/ID3/ID3Test.py
+INFOS:&&1|1|2|0&&2|3|2|1&&2|4|2|1&&2|5|2|1&&2|6|2|1
+testCalEntropy=3
+testChooseBestFeatureToSplit=5
+testSplitDataSet=4
+ID3TestCase=1
+ID3Test=2
+testCreateTree=6
